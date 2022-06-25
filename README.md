@@ -42,8 +42,12 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 ##INTEGRANTES
 
 Vilca Durand Miguel Sebastián (Lab B)
+
 Pachari Millio Gerald  (Lab B)
+
 Colque Noa Valery Andrea  (Lab B)
+
 Sucasaca Chire Edward Henry  (Lab C)
+
 Taya Ramos Timoteo Flavio  (Lab B)
 
