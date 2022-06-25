@@ -1,6 +1,5 @@
 # PROYECTO_CCll
-
-PLANTEAMIENTO DEL PROBLEMA 
+##PLANTEAMIENTO DEL PROBLEMA 
 Los registros de inventario e información de productos o servicios en muchos establecimientos pequeños se hacen manualmente, por lo que muchas veces no existe un inventario de los productos disponibles, en el mejor de los casos se llevan hojas de cálculo con información desactualizada, incompleta y que no refleja los movimientos reales y los precios de los productos que varían con mucha frecuencia.
 La aplicación de hojas de cálculo para llevar el registro de productos puede llevar a cometer errores, por lo que la información está comprometida en su seguridad y es necesario restringirla.
 
@@ -15,14 +14,17 @@ Ganar experiencia, generar aplicativos que gusten al consumidor y empezar a incu
 ###ALCANCE 
 El proyecto consiste en desarrollar un sistema de registro de inventarios de productos generales. 
 El sistema está estructurado por los siguientes Módulos 
+
 ###MÓDULO DE ADMINISTRACIÓN E INVENTARIOS
  Gestionar las configuraciones. 
 ∙ Registro de Categorías 
 ∙ Registro de Producto 
 ∙ Registro de Proveedor 
+
 ###MÓDULO FACTURACIÓN 
 ∙ Registro Nota de Ventas 
 ∙ Registro Facturas 
+
 ###REPORTES 
 Los reportes, además de auxiliar a la institución proporcionando información específica sobre cada área, también pueden utilizarse como estadísticas para la toma de decisiones. 
 ∙ Facturación de ventas por fecha de venta 
