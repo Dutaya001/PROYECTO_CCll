@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ICONS/blogger.png</file>
+        <file>ICONS/cerrar-sesion.png</file>
+        <file>ICONS/customer.png</file>
+        <file>ICONS/received.png</file>
+        <file>ICONS/reporte de ventas.png</file>
+        <file>ICONS/reportes.png</file>
+        <file>ICONS/sales.png</file>
+        <file>ICONS/salir.png</file>
+        <file>ICONS/iniciosesion.png</file>
+    </qresource>
+</RCC>
