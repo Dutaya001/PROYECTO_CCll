@@ -1,4 +1,4 @@
-*** PROYECTO CCll-SISTEMA DE VENTA E  INVENTARIO
+***PROYECTO CCll-SISTEMA DE VENTA E  INVENTARIO***
 
 ##PLANTEAMIENTO DEL PROBLEMA 
 Los registros de inventario e información de productos o servicios en muchos establecimientos pequeños se hacen manualmente, por lo que muchas veces no existe un inventario de los productos disponibles, en el mejor de los casos se llevan hojas de cálculo con información desactualizada, incompleta y que no refleja los movimientos reales y los precios de los productos que varían con mucha frecuencia.
