@@ -44,7 +44,8 @@ Los reportes, además de auxiliar a la institución proporcionando información 
 ***JUSTIFICACIÓN*** 
 Los desarrolladores del proyecto viendo la problemática planteada deciden la creación de un aplicativo que permita la solución más efectiva al problema en esto el proyecto tendrá que no solo cumplir con las expectativas sino superarlas el proyecto también estar para fomentar la iniciativa y la forma dinámica en la que se resuelve el problema los desarrolladores tendrán también que investigar para complementar los conocimientos y así no solo generar experiencias útiles que completen el proyecto sino que ayuden a generar un carácter crítico y de auto educación El sistema de compra y venta de productos generales, se convertirá en una herramienta útil y fiable a la hora de realizar una factura de los productos vendidos, reportes a tiempo y un manejo adecuado de los gastos que tiene la empresa, uno de los beneficiarios indirectos constituyen los empleados los cuales desempeñarán funciones específicas, protegiendo su integridad y obteniendo estabilidad laboral. También permitirá a los propietarios saber con precisión el estado de las cuentas, verificar su exactitud y confiabilidad de los datos obtenidos, medir la eficiencia y productividad en cada una de las actividades que diariamente se realizan, garantiza su estabilidad, permite trabajar con mayor rapidez y eficacia para dar soluciones rápidas y oportunas.
 ***RECURSOS UTILIZADOS***
-
+C:\Users\cs_ta\Desktop\recursos
+![alt text](C:\Users\cs_ta\Desktop\recursos)
 
 ***INTEGRANTES***
 
