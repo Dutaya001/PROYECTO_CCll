@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/facturacion.png</file>
+        <file>imagenes/vacioazul.png</file>
+        <file>imagenes/ventas.png</file>
+        <file>imagenes/994649.png</file>
+        <file>imagenes/cerrar-sesion.png</file>
+        <file>imagenes/estatics.png</file>
+        <file>imagenes/ventasa.png</file>
+        <file>imagenes/tutorial.png</file>
+        <file>imagenes/tutorrial.png</file>
+        <file>imagenes/blogger.png</file>
+        <file>imagenes/customer.png</file>
+        <file>imagenes/received.png</file>
+        <file>imagenes/reporte de ventas.png</file>
+        <file>imagenes/reportes.png</file>
+        <file>imagenes/sales.png</file>
+        <file>imagenes/salir.png</file>
+        <file>imagenes/iniciar-sesion.png</file>
+        <file>imagenes/bienvenido.png</file>
+    </qresource>
+</RCC>

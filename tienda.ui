@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Tienda</class>
+ <widget class="QMainWindow" name="Tienda">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>969</width>
+    <height>484</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>420</y>
+      <width>941</width>
+      <height>171</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Century Gothic</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="title">
+     <string>ACCESOS DIRECTOS</string>
+    </property>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>50</y>
+       <width>301</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="icons.qrc">:/imagenes/ventas.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_2">
+     <property name="geometry">
+      <rect>
+       <x>310</x>
+       <y>50</y>
+       <width>301</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="icons.qrc">:/imagenes/facturacion.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>610</x>
+       <y>50</y>
+       <width>301</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="icons.qrc">:/imagenes/tutorrial.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>80</y>
+       <width>121</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Century Gothic</family>
+       <pointsize>16</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>VENTAS</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_5">
+     <property name="geometry">
+      <rect>
+       <x>400</x>
+       <y>80</y>
+       <width>171</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Century Gothic</family>
+       <pointsize>16</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>FACTURACION</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_6">
+     <property name="geometry">
+      <rect>
+       <x>730</x>
+       <y>80</y>
+       <width>121</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Century Gothic</family>
+       <pointsize>16</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>TUTORIALES</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_2">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>90</y>
+      <width>481</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QLabel" name="label_9">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>451</width>
+       <height>281</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="icons.qrc">:/imagenes/estatics.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_3">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>90</y>
+      <width>431</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QLabel" name="label_10">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>20</y>
+       <width>371</width>
+       <height>261</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="icons.qrc">:/imagenes/ventasa.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>30</y>
+      <width>291</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>:/imagenes/Sin título.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>20</y>
+      <width>451</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial Black</family>
+      <pointsize>16</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>BIENVENIDO A SU PUNTO DE VENTA </string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>969</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuINICIO">
+    <property name="title">
+     <string>INICIO</string>
+    </property>
+    <addaction name="actionVENTAS"/>
+    <addaction name="actionADMINISTRADOR"/>
+    <addaction name="actionCLIENTE"/>
+    <addaction name="actionSTOCK"/>
+    <addaction name="actionREPORTE_DE_VENTAS"/>
+    <addaction name="actionPRODUCTO"/>
+    <addaction name="actionSALIR"/>
+    <addaction name="actionnueva"/>
+   </widget>
+   <addaction name="menuINICIO"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionVENTAS"/>
+   <addaction name="actionADMINISTRADOR"/>
+   <addaction name="actionCLIENTE"/>
+   <addaction name="actionPRODUCTO"/>
+   <addaction name="actionSTOCK"/>
+   <addaction name="actionREPORTE_DE_VENTAS"/>
+   <addaction name="actionSALIR"/>
+  </widget>
+  <widget class="QToolBar" name="toolBar_2">
+   <property name="windowTitle">
+    <string>toolBar_2</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <action name="actionVENTAS">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/994649.png</normaloff>:/imagenes/994649.png</iconset>
+   </property>
+   <property name="text">
+    <string>VENTAS </string>
+   </property>
+  </action>
+  <action name="actionADMINISTRADOR">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/blogger.png</normaloff>:/imagenes/blogger.png</iconset>
+   </property>
+   <property name="text">
+    <string>ADMINISTRADOR </string>
+   </property>
+  </action>
+  <action name="actionCLIENTE">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/customer.png</normaloff>:/imagenes/customer.png</iconset>
+   </property>
+   <property name="text">
+    <string>CLIENTE</string>
+   </property>
+  </action>
+  <action name="actionSTOCK">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/reporte de ventas.png</normaloff>:/imagenes/reporte de ventas.png</iconset>
+   </property>
+   <property name="text">
+    <string>STOCK</string>
+   </property>
+  </action>
+  <action name="actionREPORTE_DE_VENTAS">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/reportes.png</normaloff>:/imagenes/reportes.png</iconset>
+   </property>
+   <property name="text">
+    <string>REPORTE DE VENTAS</string>
+   </property>
+  </action>
+  <action name="actionPRODUCTO">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/received.png</normaloff>:/imagenes/received.png</iconset>
+   </property>
+   <property name="text">
+    <string>PRODUCTO</string>
+   </property>
+  </action>
+  <action name="actionSALIR">
+   <property name="icon">
+    <iconset resource="icons.qrc">
+     <normaloff>:/imagenes/salir.png</normaloff>:/imagenes/salir.png</iconset>
+   </property>
+   <property name="text">
+    <string>SALIR</string>
+   </property>
+  </action>
+  <action name="actionnueva">
+   <property name="text">
+    <string>nueva</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>
