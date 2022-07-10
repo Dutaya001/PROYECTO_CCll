@@ -78,3 +78,5 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 - Sucasaca Chire Edward Henry  (Lab C)
 - Taya Ramos Timoteo Flavio  (Lab B)
 
+[![inicio.png](https://i.postimg.cc/GhpPf6cW/inicio.png)](https://postimg.cc/WtQJFWq8)
+[![login.png](https://i.postimg.cc/kGTQ4vyY/login.png)](https://postimg.cc/QKW9Y5wc)
