@@ -77,6 +77,8 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 - Colque Noa Valery Andrea  (Lab B)
 - Sucasaca Chire Edward Henry  (Lab C)
 - Taya Ramos Timoteo Flavio  (Lab B)
+<a name="INTERFAZ"></a>
+## INTERFAZ
 [![login.png](https://i.postimg.cc/kGTQ4vyY/login.png)](https://postimg.cc/QKW9Y5wc)
 [![inicio.png](https://i.postimg.cc/GhpPf6cW/inicio.png)](https://postimg.cc/WtQJFWq8)
 [![CLIENTE.png](https://i.postimg.cc/yx1hsb0S/CLIENTE.png)](https://postimg.cc/N9n2xbJg)
