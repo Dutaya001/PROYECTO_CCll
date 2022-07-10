@@ -82,4 +82,4 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 [![login.png](https://i.postimg.cc/kGTQ4vyY/login.png)](https://postimg.cc/QKW9Y5wc)
 [![inicio.png](https://i.postimg.cc/GhpPf6cW/inicio.png)](https://postimg.cc/WtQJFWq8)
 [![CLIENTE.png](https://i.postimg.cc/yx1hsb0S/CLIENTE.png)](https://postimg.cc/N9n2xbJg)
-[Sin-t-tulo.png](https://postimg.cc/c6KnJyC6)
+[![Sin-t-tulo.png](https://i.postimg.cc/8k4BtTVd/Sin-t-tulo.png)](https://postimg.cc/c6KnJyC6)
