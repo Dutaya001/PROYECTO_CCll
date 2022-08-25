@@ -69,6 +69,8 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="50px"></a>
 
 <a name="LINK DE DESCARGAR QT"></a>
+##LINK DE DESCARGA QT
+https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4
 
 <a name="Integrantes"></a>
 ## INTEGRANTES
