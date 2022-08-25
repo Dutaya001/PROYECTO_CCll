@@ -74,7 +74,7 @@ https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-47
 ## PRESIONE EN DOWLOAD
 [![link-qt.png](https://i.postimg.cc/NjdFS036/link-qt.png)](https://postimg.cc/G4sbsbht)
 ## DEBERA REGISTRARSE Y VERIFICAR SU CUENTA,UNA VEZ REALIZADO ESO SOLO CONTINUE LOS PASOS 
-[![qt.png](https://i.postimg.cc/QNw5h7gx/qt.png)](https://postimg.cc/F1b1x7n2)
+[![qt.png](https://i.postimg.cc/bYtW9KTy/qt.png)](https://postimg.cc/HjT6pvRR)
 <a name="Integrantes"></a>
 ## INTEGRANTES
 
