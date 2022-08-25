@@ -70,9 +70,10 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 
 <a name="LINK DE DESCARGAR QT"></a>
 ## LINK DE DESCARGA QT
-https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4 ">"
-
+https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4 
+## PRESIONE EN DOWLOAD
 [![link-qt.png](https://i.postimg.cc/NjdFS036/link-qt.png)](https://postimg.cc/G4sbsbht)
+## DEBERA REGISTRARSE Y VERIFICAR SU CUENTA,UNA VEZ REALIZADO ESO SOLO CONTINUE LOS PASOS 
 [![qt.png](https://i.postimg.cc/QNw5h7gx/qt.png)](https://postimg.cc/F1b1x7n2)
 <a name="Integrantes"></a>
 ## INTEGRANTES
