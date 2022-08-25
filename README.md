@@ -68,6 +68,7 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1024px-Qt_logo_2016.svg.png" height="50px"></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="50px"></a>
 
+<a name="LINK DE DESCARGAR QT"></a>
 
 <a name="Integrantes"></a>
 ## INTEGRANTES
