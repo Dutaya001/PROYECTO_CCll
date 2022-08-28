@@ -69,7 +69,7 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="50px"></a>
 
 <a name="video de la presentacion de  las  diapositivas"></a>
-## VIDEO DE LA PRESENTACION DEL PROYECTO
+## PRESENTACION DEL PROYECTO
 [![Alt text](https://img.youtube.com/vi/JRzWAooasYY/0.jpg)](https://www.youtube.com/watch?v=JRzWAooasYY)
 
 <a name="LINK DE DESCARGAR QT"></a>
