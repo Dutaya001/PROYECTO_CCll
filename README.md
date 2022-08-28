@@ -77,7 +77,7 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4 
 ## PRESIONE EN DOWLOAD
 [![link-qt.png](https://i.postimg.cc/NjdFS036/link-qt.png)](https://postimg.cc/G4sbsbht)
-## DEBERA REGISTRARSE Y VERIFICAR SU CUENTA EN SU CORREO,UNA VEZ REALIZADO ESO SOLO CONTINUE LOS PASOS 
+## DEBERA REGISTRARSE,LUEGO VERIFICAR SU CUENTA EN SU CORREO UNA VEZ REALIZADO ESO SOLO CONTINUE LOS PASOS 
 [![qt.png](https://i.postimg.cc/bYtW9KTy/qt.png)](https://postimg.cc/HjT6pvRR)
 <a name="Integrantes"></a>
 ## INTEGRANTES
