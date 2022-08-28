@@ -70,7 +70,7 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 
 <a name="video de la presentacion de  las  diapositivas"></a>
 ## VIDEO DE LA PRESENTACION DEL PROYECTO
-
+[![Alt text](https://img.youtube.com/vi/JRzWAooasYY/0.jpg)](https://www.youtube.com/watch?v=JRzWAooasYY)
 
 <a name="LINK DE DESCARGAR QT"></a>
 ## LINK DE DESCARGA QT
