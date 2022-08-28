@@ -67,7 +67,9 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/427px-ISO_C%2B%2B_Logo.svg.png" height="50px"></a>
 <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1024px-Qt_logo_2016.svg.png" height="50px"></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="50px"></a>
-
+## VIDEO DE LA PRESENTACION DEL PROYECTO
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=JRzWAooasYY)
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=JRzWAooasYY)
 <a name="LINK DE DESCARGAR QT"></a>
 ## LINK DE DESCARGA QT
 https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4 
