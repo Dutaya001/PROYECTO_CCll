@@ -73,7 +73,7 @@ Los desarrolladores del proyecto viendo la problemática planteada deciden la cr
 [![Alt text](https://img.youtube.com/vi/JRzWAooasYY/0.jpg)](https://www.youtube.com/watch?v=JRzWAooasYY)
 <a name="link de las  diapositivas"></a>
 ## DIAPOSITIVAS
-Diapositivas: [Presione aqui](https://docs.google.com/presentation/d/1ILiJpXedPNNqi9mVw6f-5vsulZku7mw0/edit#slide=id.p4)
+Link de las diapositivas: [Presione aqui](https://docs.google.com/presentation/d/1ILiJpXedPNNqi9mVw6f-5vsulZku7mw0/edit#slide=id.p4)
 <a name="LINK DE DESCARGAR QT"></a>
 ## LINK DE DESCARGA QT
 https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4 
