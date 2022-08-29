@@ -84,10 +84,6 @@ https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-47
 <a name="Integrantes"></a>
 ## INTEGRANTES
 - Taya Ramos Timoteo Flavio  (Lab B)
-- Vilca Durand Miguel Sebastián (Lab B) 
-- Pachari Millio Gerald  (Lab B)
-- Colque Noa Valery Andrea  (Lab B)
-- Sucasaca Chire Edward Henry  (Lab C)
 
 <a name="INTERFAZ"></a>
 ## INTERFAZ
